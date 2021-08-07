@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raju Jai</h1>
+<h1 align="center">Hi 👋 🙏, I'm Raju Jai</h1>
 <h3 align="center">A passionate full stack developer from a village in Haryana, India</h3>
 
 - 🔭 I’m currently working on my **improve my coding skills**
