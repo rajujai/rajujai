@@ -134,3 +134,11 @@
 <a href="https://twitter.com/rajujaii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajujaii" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/raju-jai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajujai" height="30" width="40" /></a>
 </p>
+
+<h3> 📊 My Github Stats</h3>
+<a href="https://github.com/rajujai/github-readme-activity-graph"><img alt="Raju-Jai-Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rajujai&bg_color=0D1117&color=e8f4fd&line=f98c03&point=FFFFFF&hide_border=true" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajujai&show_icons=true&locale=en&layout=compact&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="rajujai" /></p>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=rajujai&show_icons=true&locale=en&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="rajujai" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajujai&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="rajujai" /></p>
