@@ -6,15 +6,129 @@
 📫 Drop me a mail **rajujaijangra@gmail.com** 📫
 </div>
 
-<h3 align="center">Tech Stack</h3>
-<div align="center">
-<p> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.oracle.com/java/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-</p>
- </div>
+<hr />
+
+<h2 align="center" border="0">My Tech Stack</h2>
+
+<br>
+
+<table align="center">
+
+<tbody>
+
+ <tr valign="top">
+
+<td width="25%" align="center">
+
+<span>Java</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>MySQL</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>Hibernate</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/hibernate.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>Spring Boot</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
+
+</td>
+
+</tr>
+ 
+<tr valign="top">
+
+<td width="25%" align="center">
+
+<span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗖𝗦𝗦𝟯</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+
+</td>
+
+
+<td width="25%" align="center">
+
+<span>𝗚𝗶𝘁</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+
+</td>
+
+</tr>
+
+<tr valign="top">
+
+<td width="25%" align="center">
+
+<span>NodeJS</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>ExpressJS</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>MongoDB</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖SS</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/rajujaii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajujaii" height="30" width="40" /></a>
