@@ -1,4 +1,4 @@
-<h1 align="center">Hi🙏, I'm Raju Jai</h1>
+<h1 align="center">Hi🙏, I'm Raju Jangra</h1>
 <h3 align="center">🌱 Java Developer 🌱</h3>
 <div align="center">
 🔭 Currently working on my Power skills and coding skills 🔭
